@@ -14,12 +14,12 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#fff', // Màu nền
+    backgroundColor: '#fff',
   },
   homeText: {
     fontSize: 24,
     fontWeight: 'bold',
-    color: 'blue', // Màu văn bản
+    color: 'blue', 
   },
 });
 
